@@ -8,8 +8,8 @@ import (
 
 	"github.com/gorilla/mux"
 	"github.com/joho/godotenv"
-	"github.com/tomascaceres14/rest_websockets/handlers"
-	"github.com/tomascaceres14/rest_websockets/server"
+	"github.com/tomascaceres14/go_rest_websockets/handlers"
+	"github.com/tomascaceres14/go_rest_websockets/server"
 )
 
 func main() {

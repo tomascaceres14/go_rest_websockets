@@ -4,7 +4,7 @@ import (
 	"encoding/json"
 	"net/http"
 
-	"github.com/tomascaceres14/rest_websockets/server"
+	"github.com/tomascaceres14/go_rest_websockets/server"
 )
 
 type JsonResponse struct {
